@@ -6,4 +6,3 @@ class Farmer(BaseModel):
     location: str
     soil_type: str
     irrigation: bool
-    crops: list[str]
